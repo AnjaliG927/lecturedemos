@@ -11,8 +11,8 @@ public class IOEx1 {
         FileReader inputStream = null;
         FileWriter outputStream = null;
         String projectLocalDirectory = System.getProperty("user.dir");
-        String fileInPath = projectLocalDirectory + "/src/main/resources/input.txt";
-        String fileOutPath = projectLocalDirectory + "/src/main/resources/output.txt";
+        String fileInPath = projectLocalDirectory + "/java/2020Aug10/src/main/resources/input.txt";
+        String fileOutPath = projectLocalDirectory + "/java/2020Aug10/src/main/resources/output.txt";
 
         File readIn = new File(fileInPath);
         File writeTo = new File(fileOutPath);

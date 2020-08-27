@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/java/2020Aug03/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Aug05/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Aug06/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Aug10/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul14/firstdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul14/seconddemo/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul15/demo-1/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul20/method-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul21/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul22/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul23/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul28/pom.xml" />
+        <option value="$PROJECT_DIR$/java/2020Jul29/pom.xml" />
+        <option value="$PROJECT_DIR$/javascript/2020Jul07/converting-json/pom.xml" />
+        <option value="$PROJECT_DIR$/project-management/2020Jun15/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

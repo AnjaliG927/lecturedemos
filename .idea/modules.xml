@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul15/demo-1/demo-1.iml" filepath="$PROJECT_DIR$/java/2020Jul15/demo-1/demo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul14/firstdemo/first-demo.iml" filepath="$PROJECT_DIR$/java/2020Jul14/firstdemo/first-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lecturedemos.iml" filepath="$PROJECT_DIR$/.idea/lecturedemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Aug03/maven-template-project.iml" filepath="$PROJECT_DIR$/java/2020Aug03/maven-template-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Aug05/maven-template-project (1).iml" filepath="$PROJECT_DIR$/java/2020Aug05/maven-template-project (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/javascript/2020Jul07/converting-json/maven-template-project (10).iml" filepath="$PROJECT_DIR$/javascript/2020Jul07/converting-json/maven-template-project (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-management/2020Jun15/maven-template-project (11).iml" filepath="$PROJECT_DIR$/project-management/2020Jun15/maven-template-project (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Aug06/maven-template-project (2).iml" filepath="$PROJECT_DIR$/java/2020Aug06/maven-template-project (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Aug10/maven-template-project (3).iml" filepath="$PROJECT_DIR$/java/2020Aug10/maven-template-project (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul20/method-demo/maven-template-project (4).iml" filepath="$PROJECT_DIR$/java/2020Jul20/method-demo/maven-template-project (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul21/maven-template-project (5).iml" filepath="$PROJECT_DIR$/java/2020Jul21/maven-template-project (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul22/maven-template-project (6).iml" filepath="$PROJECT_DIR$/java/2020Jul22/maven-template-project (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul23/maven-template-project (7).iml" filepath="$PROJECT_DIR$/java/2020Jul23/maven-template-project (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul28/maven-template-project (8).iml" filepath="$PROJECT_DIR$/java/2020Jul28/maven-template-project (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul29/maven-template-project (9).iml" filepath="$PROJECT_DIR$/java/2020Jul29/maven-template-project (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul14/seconddemo/second-demo.iml" filepath="$PROJECT_DIR$/java/2020Jul14/seconddemo/second-demo.iml" />
+    </modules>
+  </component>
+</project>
